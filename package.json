@@ -1,0 +1,15 @@
+{
+  "name": "newsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Mohan Praneeth Rajulapudi <rajulapudip@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "newsapi": "2.4.0"
+  }
+}

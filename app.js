@@ -5,7 +5,7 @@ const path = require('path');
 
 
 var app = express();
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 3000;
 
 app.set('view engine', 'ejs');
 app.use('/common', express.static('common'));
@@ -17,57 +17,79 @@ const newsapi = new NewsAPI('014317ccd6ce42e2854ffd72bc0103a2');
 // All options passed to topHeadlines are optional, but you need to include at least one of them
 
 app.get('/', (req, res) => {
-  
-  //var htmlheadline = '';
-  //var htmlelement = '';
-  //var htmlelement1 = '';
+
+    // var htmlheadline = '';
+    // var htmlelement = '';
+    // var htmlelement1 = '';
 
 
-/*     var HeadlineOptions = {
+    /*     var HeadlineOptions = {
         q: 'technology',
         language: 'en',
         sortBy: 'popularity',
         page: 2
     }
     newsapi.v2.topHeadlines(HeadlineOptions, (err, response) => {
-      var htmlheadline = '';
+      
         if (err) {
             console.log(err)
         } else {
-            for (var i = 0; i < 1; i++) {
-                htmlheadline += '<a class="pos-relative h-100 dplay-block" href="' + response.articles[i].url + '">' + '<div class="img-bg bg-1 bg-grad-layer-6"></div>' + '<div class="abs-blr color-white p-20 bg-sm-color-7">' + '<h3 class="mb-15 mb-sm-5 font-sm-13"><b>' + response.articles[i].title + '</b></h3>' + '<ul class="list-li-mr-20">' + '<li>by <span class="color-primary"><b>' + response.articles[i].author + '</b></span>' + response.articles[i].publishedAt + '</li>' + '</ul></div></a>'
-            }
+            
             return htmlheadline
         }
     }) */
 
     /* Everythin END POINT for RECENT TECH NEWS CONTENT */
     var newsOptions = {
-        q: 'technology',
+        q: 'computer technology',
         language: 'en',
         sortBy: 'popularity',
         page: 2
     }
 
-  newsapi.v2.everything(newsOptions, (err, response) => {
+    newsapi.v2.everything(newsOptions, (err, response) => {
         if (err) {
             console.log(err)
         } else {
-          var htmlelement = '';
-          var htmlelement1 = '';
-            for (var i = 0; i < 4; i++) {
-                htmlelement += '<a class="oflow-hidden pos-relative mb-20 dplay-block" href="' + response.articles[i].url + '">' + '<div class="wh-100x abs-tlr"><img src="' + response.articles[i].urlToImage + '"></div>' + '<div class="ml-120 min-h-100x"><h5><b>' + response.articles[i].title + '</b></h5>' + '<h6 class="color-lite-black pt-10">by <span class="color-black"><b>' + response.articles[i].author + ',</b></span>' + response.articles[i].publishedAt + '</h6>' + '</div></a>'
+            var recentright = '';
+            var recentleft = '';
+            var htmlheadline = '';
+            var rightheads = '';
+            var bottomheads = '';
+            var lastsection = '';
+
+            for (var i = 11; i < 17; i++) {
+                lastsection += '<div class="col-sm-6">' + '<img src="' + response.articles[i].urlToImage + '">' + '<h4 class="pt-20"><a href="' + response.articles[i].url + '"><b>' + response.articles[i].title + '</b></a></h4>' + '<ul class="list-li-mr-20 pt-10 mb-30">' + '<li class="color-lite-black">by <span class="color-black"><b>' + response.articles[i].author + ',,</b></a>' + response.articles[i].publishedAt + '</li></ul></div>'
+            }
+
+            for (var i = 8; i < 11; i++) {
+                bottomheads += '<div class="pl-5 pl-sm-0 pt-5 pt-sm-10 float-left float-sm-none pos-relative w-1-3 w-sm-100 h-100 h-sm-300x">' + '<a class="pos-relative h-100 dplay-block" href="' + response.articles[i].url + '">' + '<div style= "background-image: url(' + response.articles[i].urlToImage + ')" class="img-bg bg-6 bg-grad-layer-6"></div>' + '<div class="abs-blr color-white p-20 bg-sm-color-7">' + '<h4 class="mb-10 mb-sm-5"><b>' + response.articles[i].title + '</b></h4>' + '<ul class="list-li-mr-20">' + '<li>Jan 25, 2018</li>' + '</ul></div></a></div>'
+            }
+            for (var i = 6; i < 8; i++) {
+                rightheads += '<div class="pl-5 pb-5 pl-sm-0 ptb-sm-5 pos-relative h-50">' + '<a class="pos-relative h-100 dplay-block" href="' + response.articles[i].url + '">' + '<div style= "background-image: url(' + response.articles[i].urlToImage + ')"class="img-bg bg-2 bg-grad-layer-6"></div>' + '<div class="abs-blr color-white p-20 bg-sm-color-7">' + '<h4 class="mb-10 mb-sm-5"><b>' + response.articles[i].title + '</b></h4>' + '<ul class="list-li-mr-20">' + '<li>' + response.articles[i].publishedAt + '</li>' + '</ul></div></a></div>'
+            }
+
+            for (var i = 0; i < 1; i++) {
+                htmlheadline += '<a class="pos-relative h-100 dplay-block" href="' + response.articles[i].url + '">' + '<div style= "background-image: url(' + response.articles[i].urlToImage + ')" class="img-bg bg-1 bg-grad-layer-6"></div>' + '<div class="abs-blr color-white p-20 bg-sm-color-7">' + '<h3 class="mb-15 mb-sm-5 font-sm-13"><b>' + response.articles[i].title + '</b></h3>' + '<ul class="list-li-mr-20">' + '<li>by <span class="color-primary"><b>' + response.articles[i].author + '</b></span>' + response.articles[i].publishedAt + '</li>' + '</ul></div></a>'
+            }
+            for (var i = 1; i < 5; i++) {
+                recentright += '<a class="oflow-hidden pos-relative mb-20 dplay-block" href="' + response.articles[i].url + '">' + '<div class="wh-100x abs-tlr"><img src="' + response.articles[i].urlToImage + '"></div>' + '<div class="ml-120 min-h-100x"><h5><b>' + response.articles[i].title + '</b></h5>' + '<h6 class="color-lite-black pt-10">by <span class="color-black"><b>' + response.articles[i].author + ',</b></span>' + response.articles[i].publishedAt + '</h6>' + '</div></a>'
                 // console.log(htmlelement);
                 // console.log(response);
             }
-            for (i = 4; i < 5; i++) {
-                htmlelement1 += '<img src="' + response.articles[i].urlToImage + '" alt="">' + '<h4 class="pt-20"><a href="' + response.articles[i].url + '"><b>' + response.articles[i].title + '<br/></b></a></h4>' + '<ul class="list-li-mr-20 pt-10 pb-20">' + '<li class="color-lite-black">by <p class="color-black"><b>' + response.articles[i].author + ',</b></p>' + response.articles[i].publishedAt + '</li>' + '<li><i class="color-primary mr-5 font-12 ion-ios-bolt"></i><b></b></li>' + '</ul>' + '<p>' + response.articles[i].description + '</p>'
+            for (i = 5; i < 6; i++) {
+                recentleft += '<img src="' + response.articles[i].urlToImage + '" alt="">' + '<h4 class="pt-20"><a href="' + response.articles[i].url + '"><b>' + response.articles[i].title + '<br/></b></a></h4>' + '<ul class="list-li-mr-20 pt-10 pb-20">' + '<li class="color-lite-black">by <p class="color-black"><b>' + response.articles[i].author + ',</b></p>' + response.articles[i].publishedAt + '</li>' + '<li><i class="color-primary mr-5 font-12 ion-ios-bolt"></i><b></b></li>' + '</ul>' + '<p>' + response.articles[i].content + '</p>'
             }
+            
         }
         res.render('index.ejs', {
-          //headline1: htmlheadline,
-          element: htmlelement,
-          element1: htmlelement1})
+            rightheads: rightheads,
+            bottomheads: bottomheads,
+            headline1: htmlheadline,
+            recentright: recentright,
+            recentleft: recentleft,
+            lastsection :lastsection
+        })
     })
 
 })

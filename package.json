@@ -10,6 +10,8 @@
   "author": "Mohan Praneeth Rajulapudi <rajulapudip@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "ejs": "2.6.1",
+    "express": "4.17.1",
     "newsapi": "2.4.0"
   }
 }

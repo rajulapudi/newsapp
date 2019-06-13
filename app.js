@@ -1,5 +1,6 @@
 const express = require('express');
 const NewsAPI = require('newsapi');
+const APIkey = require('./keys')
 
 
 
@@ -11,14 +12,14 @@ app.use('/common', express.static('common'));
 app.use('/plugin-frameworks', express.static('plugin-frameworks'))
 app.use(express.static('views'));
 
-const newsapi = new NewsAPI('014317ccd6ce42e2854ffd72bc0103a2');
+const newsapi = new NewsAPI(APIkey);
 // To query /v2/top-headlines
 // All options passed to topHeadlines are optional, but you need to include at least one of them
 
 app.get('/',(req, res) => {
 
     var newsOptions = {
-        q: 'politics, +india',
+        q: 'bootcamp',
         language: 'en',
         sortBy: 'popularity',
         pageSize: 25

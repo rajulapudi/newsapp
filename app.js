@@ -4,7 +4,7 @@ const NewsAPI = require('newsapi');
 
 
 var app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3030;
 
 app.set('view engine', 'ejs');
 app.use('/common', express.static('common'));
@@ -18,7 +18,7 @@ const newsapi = new NewsAPI('014317ccd6ce42e2854ffd72bc0103a2');
 app.get('/',(req, res) => {
 
     var newsOptions = {
-        q: 'computer technology',
+        q: 'politics, +india',
         language: 'en',
         sortBy: 'popularity',
         pageSize: 25

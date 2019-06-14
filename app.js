@@ -1,11 +1,11 @@
 const express = require('express');
 const NewsAPI = require('newsapi');
-const APIkey = require('./keys')
+const APIkey = '014317ccd6ce42e2854ffd72bc0103a2'
 
 
 
 var app = express();
-const port = process.env.PORT || 3030;
+const port = process.env.PORT || 3035;
 
 app.set('view engine', 'ejs');
 app.use('/common', express.static('common'));

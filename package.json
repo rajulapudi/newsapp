@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "Mohan Praneeth Rajulapudi <rajulapudip@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node":"12.x"
+  },
   "dependencies": {
     "ejs": "2.6.1",
     "express": "4.17.1",

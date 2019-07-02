@@ -10,11 +10,13 @@
   "author": "Mohan Praneeth Rajulapudi <rajulapudip@gmail.com>",
   "license": "MIT",
   "engines": {
-    "node":"12.x"
+    "node": "12.x"
   },
   "dependencies": {
     "ejs": "2.6.1",
     "express": "4.17.1",
-    "newsapi": "2.4.0"
+    "newsapi": "2.4.0",
+    "request": "2.88.0",
+    "request-promise": "4.2.4"
   }
 }

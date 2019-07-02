@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "The Nets weren't as desperate as the Knicks to sign KD, Kyrie – Richard Jefferson | Get Up - ESPN",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=KCcvvgv-QFI",
+            "urlToImage": null,
+            "publishedAt": "2019-07-01T12:45:46Z",
+            "content": "[[getSimpleString(data.title)]]\r\n[[getSimpleString(data.description)]]\r\n[[getSimpleString(data.videoCountText)]]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mavsmoneyball.com"
+            },
+            "author": "Josh Bowe",
+            "title": "Mavs Moneyball Podcast, Episode 25: What the Hell are the Mavs Doing? - Mavs Moneyball",
+            "description": "Josh and Kirk put on their ranting pants to go off on the Mavericks embarrassing first day of free agency.",
+            "url": "https://www.mavsmoneyball.com/2019/7/1/20676801/2019-nba-free-agency-mavs-moneyball-podcast-episode-25-what-the-hell-are-the-mavs-doing",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/32uclfYhnkajWTm_Oy2Sc-QujNQ=/0x201:3088x1818/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/18271994/usa_today_12237570.jpg",
+            "publishedAt": "2019-07-01T12:00:00Z",
+            "content": "The Dallas Mavericks entered free agency with apparent needs shooting, secondary playmaking and defense. Hopefully theyd get those in the form of two starts (maybe three!)\r\nAfter the first day of NBA free agency on Sunday, the Mavericks have addressed none of… [+450 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Hong Kong protesters clash with police over China extradition bill - live - CNN",
+            "description": "Thousands of people are marching in Hong Kong for the annual July 1 pro-democracy protest. Here's the latest.",
+            "url": "https://www.cnn.com/asia/live-news/hong-kong-july-1-protests-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190630214917-0701-hk-rallies-03-super-tease.jpg",
+            "publishedAt": "2019-07-01T11:52:00Z",
+            "content": "Protesters are still smashing the windows of the government headquarters but no one appears to have been able to enter the building yet.\r\nThat's partly because of the heavy metal shutters that block access to the building in many places. The protesters also k… [+418 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "Taylor Swift's former label boss blasts her Scooter Braun 'bullying' claims, says she knew about sale - Fox News",
+            "description": "Taylor Swift lashed out at her Big Machine founder Scott Borchetta for selling the label, including the masters of her first six albums, to Kanye West's former manager Scooter Braun, who she accused of \"manipulative bullying.\" Late Sunday, Borchetta fired bac…",
+            "url": "https://www.foxnews.com/entertainment/taylor-swift-big-machine-scott-borchetta-response-scooter-braun-bully",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/07/taylor-swift-scott-borchetta.jpg",
+            "publishedAt": "2019-07-01T11:50:24Z",
+            "content": "Taylor Swift lashed out at her Big Machine founder Scott Borchetta for selling the label, including the masters of her first six albums, to Kanye West's former manager Scooter Braun, who she accused of \"manipulative bullying.\" Late Sunday, Borchetta fired bac… [+8110 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Paul Steinhauser",
+            "title": "Buttigieg triples fundraising haul in last quarter, rakes in nearly $25M - Fox News",
+            "description": "Democratic presidential candidate Pete Buttigieg hauled in a whopping $24.8 million in fundraising from nearly 300,000 donors the past three months, his campaign announced on Monday.",
+            "url": "https://www.foxnews.com/politics/buttigieg-rakes-in-nearly-25-million",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/06/29/694940094001_6053794658001_6053803719001-vs.jpg",
+            "publishedAt": "2019-07-01T11:44:22Z",
+            "content": "Democratic presidential candidate Pete Buttigieg hauled in a whopping $24.8 million in fundraising from nearly 300,000 donors the past three months, his campaign announced on Monday.\r\nThat’s a massive figure for a White House hopeful who was largely unknown j… [+2906 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes.com"
+            },
+            "author": "Adam Zagoria",
+            "title": "Knicks Add Free Agents Julius Randle, Bobby Portis, Taj Gibson And Reggie Bullock - Forbes",
+            "description": "After missing out on Kevin Durant in free agency, the Knicks went out and committed $114 million to forwards Julius Randle, Bobby Portis and Taj Gibson.",
+            "url": "https://www.forbes.com/sites/adamzagoria/2019/07/01/knicks-add-forwards-julius-randle-bobby-portis-and-taj-gibson-in-free-agency/",
+            "urlToImage": "https://thumbor.forbes.com/thumbor/600x315/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2Ff8194af3b744467c9d029c4502e08fc6%2F960x0.jpg%3Ffit%3Dscale",
+            "publishedAt": "2019-07-01T11:40:19Z",
+            "content": "Share to facebook\r\nShare to twitter\r\nShare to linkedin\r\nNew Orleans Pelicans center Julius Randle (30)in the first half during an NBA basketball game against the Phoenix Suns, Friday, April 5, 2019, in Phoenix. (AP Photo/Rick Scuteri)\r\nASSOCIATED PRESS\r\nThe K… [+5554 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Mackenzie Lueck death: Utah student's accused killer, Ayoola Ajayi​, allegedly tried to have sound-proof room built - CBS News",
+            "description": "Police are sharing more details about the suspected killer of University of Utah student Mackenzie Lueck",
+            "url": "https://www.cbsnews.com/news/ayoola-ajayi-suspected-killer-of-utah-student-mackenzie-lueck-accused-of-rape-sound-proof-room-2019-07-01/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/28/00469bfb-cb4a-45aa-a4b5-a36c1023d276/thumbnail/1200x630g2/7843e94c5e1b358c80d9ab659101eb7c/mack.jpg",
+            "publishedAt": "2019-07-01T11:35:00Z",
+            "content": "A contractor says the suspected killer of University of Utah student Mackenzie Lueck asked for the construction of a sound-proof room in April, complete with hooks in the concrete walls and a fingerprint lock.\r\n\"He was adamant about getting it done really fas… [+1924 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Patrick Ryan",
+            "title": "Meryl Streep is the worst thing about 'Big Little Lies' Season 2. What happened? - USA TODAY",
+            "description": "Listen, we love the Meryl Streep memes just as much as you do. But adding the Oscar winner to \"Big Little Lies\" is a bust.",
+            "url": "https://www.usatoday.com/story/life/tv/2019/07/01/meryl-streep-worst-part-big-little-lies-season-2/1571795001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2019/06/28/USAT/02405e63-8b9f-403b-9573-47c28261a3bf-6e79b8ba9ebc3d19f27659d79a4ce4064011e953bfc351f116e7be4b74846e43cf4df7b2c9d0c637cd0df7fa43741f38.jpg?crop=3999,2249,x0,y187&width=3200&height=1680&fit=bounds",
+            "publishedAt": "2019-07-01T11:30:00Z",
+            "content": "At the season two premiere of \"Big Little Lies,\" stars Reese Witherspoon, Nicole Kidman and Laura Dern opted for muted hues and suits. (May 30)\r\n AP, AP\r\nSpoiler alert! Contains details about Sunday's episode of \"Big Little Lies.\" \r\nListen, we love the Meryl … [+5408 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Yaron Weitzman",
+            "title": "Winning Won't Come Easy for Jimmy Butler in Miami, so Why Ditch Sixers? - Bleacher Report",
+            "description": "After all of it—the leaked trade demands and torched practices and jabs at teammates, the trade to a new team and arguments with a new coach and silent protest of his new role, ...",
+            "url": "https://bleacherreport.com/articles/2843655-winning-wont-come-easy-for-jimmy-butler-in-miami-so-why-ditch-sixers",
+            "urlToImage": "https://img.bleacherreport.net/img/images/photos/003/816/936/hi-res-a3e5543cbd623bc0723c40ab87d66e89_crop_exact.jpg?w=1200&h=1200&q=75",
+            "publishedAt": "2019-07-01T11:18:31Z",
+            "content": "Chris Szagola/Associated Press\r\nAfter all of itthe leaked trade demands and torched practices and jabs at teammates, the trade to a new team and arguments with a new coach and silent protest of his new role, the Jordans for all and clutch baskets and growing … [+4433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livescience.com"
+            },
+            "author": "Stephanie Pappas",
+            "title": "AI Created a 3D Replica of Our Universe. We Have No Idea How It Works. - Live Science",
+            "description": "The first artificial intelligence-created universe is almost as mysterious as the real thing.",
+            "url": "https://www.livescience.com/65832-ai-creates-model-universe-mysteriously.html",
+            "urlToImage": "https://img.purch.com/h/1000/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzEwNi8yOTQvb3JpZ2luYWwvYnViYmxlLW5lYnVsYS5qcGc=",
+            "publishedAt": "2019-07-01T11:14:00Z",
+            "content": "The first-ever artificial intelligence simulation of the universe seems to work like the real thing — and is almost as mysterious.\r\nResearchers reported the new simulation June 24 in the journal Proceedings of the National Academy of Sciences. The goal was to… [+3203 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Trump, Kim Jong Un meeting in North Korea leaves Democrats skeptical; White House Press Secretary Stephanie Grisham bruised in scuffle with guards - CBS News",
+            "description": "President Trump became the first sitting American president to step in to the nation",
+            "url": "https://www.cbsnews.com/news/trump-kim-jong-un-meeting-north-korea-democrats-skeptical-white-house-press-secretary-stephanie-grisham-bruised/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2019/07/01/1182cb99-10f6-47a2-a3d4-76b1e1cfebb4/thumbnail/1200x630/a772c2e3604a9534d4ee67dd14904528/nfa-creid-trump-north-korea-needs-track-gfx-frame-1302.jpg",
+            "publishedAt": "2019-07-01T11:11:00Z",
+            "content": "President Trump met Kim Jong Un at the North Korean border on Sunday, and became the first sitting American president to step in to the nation. But in the hours after the unexpected meeting, some U.S. lawmakers – including some 2020 Democratic presidential ca… [+1979 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: 'Stranger Things 3' and its low-fi tech - Engadget",
+            "description": "Welcome back to your week! We've got a spoiler-free review of 'Stranger Things' to kick... things off!",
+            "url": "https://www.engadget.com/2019/07/01/the-morning-after-stranger-things-3-and-its-low-fi-tech/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-07%252F629ca250-9be1-11e9-8fd7-a13fc062455a%26client%3Da1acac3e1b3290917d92%26signature%3Dff6348a241db7eda34811c4c9e1cd804d627e36b&client=amp-blogside-v2&signature=9bffa47b8251ad4e67e23431133dfc2622697b63",
+            "publishedAt": "2019-07-01T11:03:29Z",
+            "content": "Just how well this scales to thousands of satellites is another matter.SpaceX is still in control of all but three of its internet satellites\r\nRemember when SpaceX hurled 60 internet satellites into space? Well, they're mostly doing okay. The company is still… [+2737 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Androidpolice.com"
+            },
+            "author": "Rita El Khoury",
+            "title": "[Update: Statement] OnePlus accidentally pushed a cryptic notification to 7 Pro users - Android Police",
+            "description": "About an hour ago, OnePlus 7 Pro users got pinged with two weird notifications on their devices, emanating from OnePlus's own Push service. One of them had a string of gibberish latin consonants and the other what appears to be Korean or Chinese characters. U…",
+            "url": "https://www.androidpolice.com/2019/07/01/oneplus-accidentally-pushed-a-cryptic-notification-to-all-7-pro-users/",
+            "urlToImage": "https://www.androidpolice.com/wp-content/uploads/2019/07/oneplus-push-notifications-728x529.png",
+            "publishedAt": "2019-07-01T11:01:00Z",
+            "content": "About an hour ago, OnePlus 7 Pro users got pinged with two weird notifications on their devices, emanating from OnePlus's own Push service. One of them had a string of gibberish latin consonants and the other what appears to be Korean or Chinese characters. U… [+1474 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Al.com"
+            },
+            "author": "Leada Gore | lgore@al.com",
+            "title": "Crypto: Parasite in pools making people sick, CDC wants - AL.com",
+            "description": "The CDC says crypto, a parasite found in water, is on the rise.",
+            "url": "https://www.al.com/news/2019/07/crypto-parasite-in-pools-making-people-sick-cdc-wants.html",
+            "urlToImage": "https://www.al.com/resizer/qtoXXS24M4UDxo8_2XiPB8S61xs=/1200x0/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/CKAGS3JFXJE65F63L2P4RMIRXE.jpg",
+            "publishedAt": "2019-07-01T11:01:00Z",
+            "content": "Summers scorching temperatures may have many people looking to cool down in a swimming pool.\r\nBut diving in to beat the heat could expose you to parasites that can cause severe illness, the Centers for Disease Control warns.\r\nA new report issued Friday showed… [+1084 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cnet.com"
+            },
+            "author": "Jessica Dolcourt",
+            "title": "We tested 5G speeds around the world. Here's what we found - CNET",
+            "description": "Faster speed versus more coverage. That's the most important issue for 5G networks today.",
+            "url": "https://www.cnet.com/features/we-tested-5g-speeds-around-the-world-heres-what-we-found/",
+            "urlToImage": "https://cnet4.cbsistatic.com/img/i8Hcx1UncLvfzGeJtMoxaUaXJj4=/756x567/2019/06/28/dc805c94-d64d-486b-8853-dcba21af334e/5g-t-mobile-test-06.jpg",
+            "publishedAt": "2019-07-01T11:00:00Z",
+            "content": "Raindrops splat the pavement in downtown Chicago as I balance an umbrella in the crook of my arm and phones in each hand. On my left, I'm downloading the PUBG Mobile game over Verizon's 5G network. On my right, I'm timing how long it takes to install -- 2.5 m… [+13686 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bbc.com"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Iran nuclear deal: Why does the enriched uranium stockpile matter? - BBC News",
+            "description": "Iran has broken limits it agreed to on its enriched uranium stockpile - but why does this matter?",
+            "url": "https://www.bbc.com/news/world-middle-east-48776695",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/136FF/production/_107551697_mediaitem107551415.jpg",
+            "publishedAt": "2019-07-01T10:59:26Z",
+            "content": "Image copyrightAFPImage caption\r\n President Hassan Rouhani (R) says Iran is retaliating against US sanctions\r\nIran has exceeded the amount of enriched uranium that it was allowed to have under a 2015 nuclear deal with world powers, sources say.\r\nUnder the acc… [+6218 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox8.com"
+            },
+            "author": "https://www.facebook.com/Fox8NewsCleveland",
+            "title": "The secondhand harms of drinking impact 1 in 5 adults, study says - WJW FOX 8 News Cleveland",
+            "description": "About one-fifth of adults in the United States have experienced some form of harm due to someone else's behavior while drinking.That's according to a study published Monday in the Journal of Studies on Alcohol and Drugs, which found that in 2015, an estimated…",
+            "url": "https://fox8.com/2019/07/01/the-secondhand-harms-of-drinking-impact-1-in-5-adults-study-says/",
+            "urlToImage": "https://localtvwjw.files.wordpress.com/2019/07/gettyimages-643821287.jpg?quality=85&strip=all",
+            "publishedAt": "2019-07-01T10:38:00Z",
+            "content": "About one-fifth of adults in the United States have experienced some form of harm due to someone else’s behavior while drinking.\r\nThat’s according to a study published Monday in the Journal of Studies on Alcohol and Drugs, which found that in 2015, an estimat… [+4485 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo.com"
+            },
+            "author": null,
+            "title": "Trump talk of easing Huawei ban lifts suppliers' shares despite doubts - Yahoo Finance",
+            "description": "HONG KONG/TAIPEI (Reuters) - U.S. President Donald Trump's decision to allow U.S. firms to sell \"high tech\" products to Huawei led Asian investors to snap up shares in suppliers to the Chinese smartphone maker on Monday, even as some experts wondered what had…",
+            "url": "https://finance.yahoo.com/news/trump-talk-easing-huawei-ban-102136499.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Ww88hUwL7AyADZ5_44523Q--~B/aD0zMDE7dz00NDk7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters-finance.com/2a0af71569acde2364d958f65995da2a",
+            "publishedAt": "2019-07-01T10:21:00Z",
+            "content": "By Sijia Jiang and Yimou Lee\r\nHONG KONG/TAIPEI (Reuters) - U.S. President Donald Trump's decision to allow U.S. firms to sell \"high tech\" products to Huawei led Asian investors to snap up shares in suppliers to the Chinese smartphone maker on Monday, even as … [+4062 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "Oil firms as OPEC+ poised to extend supply cut - Investing.com",
+            "description": "Oil firms as OPEC+ poised to extend supply cut",
+            "url": "https://www.investing.com/news/commodities-news/oil-prices-rise-more-than-1-after-russia-agrees-to-extend-opec-deal-1911768",
+            "urlToImage": "https://i-invdn-com.akamaized.net/trkd-images/LYNXNPEF5T14A_L.jpg",
+            "publishedAt": "2019-07-01T10:13:00Z",
+            "content": "By Shadia Nasralla\r\nLONDON (Reuters) - Oil prices were up on Monday as OPEC and its allies looked on track to extend supply cuts until at least the end of 2019 at their meeting in Vienna this week.\r\nBrent crude futures for September delivery rose as high as $… [+2423 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Yuliya Talmazan, Reuters",
+            "title": "Japan resumes commercial whaling after three decades - NBC News",
+            "description": "Japan is set to resume commercial hunting of whales for the first time in more than three decades.",
+            "url": "https://www.nbcnews.com/news/world/japan-resume-commercial-whaling-n1025046",
+            "urlToImage": "https://media3.s-nbcnews.com/j/newscms/2019_27/2917191/190701-japan-whaling-mc-1121_29c914519bb53246528338a839f25ddb.nbcnews-fp-1200-630.JPG",
+            "publishedAt": "2019-07-01T10:01:00Z",
+            "content": "Five small Japanese whaling ships set sail for the first time in more than three decades Monday following that country's controversial decision to resume the hunt for the huge marine mammal.\r\nCrew in orange life vests took positions on the decks as the blue-h… [+3370 chars]"
+        }
+    ]
+}
